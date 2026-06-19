@@ -83,12 +83,14 @@ I_B = model.addVars(B, [0] + T_dias, vtype=GRB.CONTINUOUS, lb=0.0, name="I_B")
 W = model.addVars(B, T_dias, vtype=GRB.CONTINUOUS, lb=0.0, name="W")
 U = model.addVars(V, N, T_dias, vtype=GRB.CONTINUOUS, lb=0.0, name="U")
 E = model.addVars(B, T_dias, vtype=GRB.CONTINUOUS, lb=0.0, name="E")
+# Nueva variable: 1 si quedó inventario en el centro 'i' el día 't', 0 si no.
+Quedo_Biomasa = model.addVars(C, T_dias, vtype=GRB.BINARY, name="Quedo_Biomasa")
 # ACTIVACION LIMPIEZA
 Activo = model.addVars(C, T_dias, vtype=GRB.BINARY, name="Activo")
 
 # --- COMPONENTES DE LA FUNCIÓN OBJETIVO ACTUALIZADA ---
 objetivo_transporte = gp.quicksum(CostoKm[v] * Dist[i,j] * X[v,i,j,t] for v in V for i in N for j in N for t in T_dias)
-objetivo_inventario = gp.quicksum(Pt_base * I[i,t] for i in C for t in T_dias)
+objetivo_inventario = gp.quicksum(Pt_base * Quedo_Biomasa[i,t] for i in C for t in T_dias)
 objetivo_fijo = gp.quicksum(Costo_fijo_centro[i] * X[v,j,i,t] for v in V for i in C for j in N for t in T_dias)
 objetivo_emergencia = gp.quicksum(CostoEmergencia[b] * E[b, t] for b in B for t in T_dias)
 objetivo_vaciado = gp.quicksum(Cvac[b] * W[b,t] for b in B for t in T_dias)
@@ -111,6 +113,17 @@ model.addConstrs((gp.quicksum(X[v,i,k,t] for i in N) == gp.quicksum(X[v,k,j,t] f
 model.addConstrs((I[i, 0] == I0_centros[i] for i in C), name="Inventario_Inicial_Centros")
 model.addConstrs((I[i, t] == I[i, t-1] + Bio[i][t] - gp.quicksum(Q[v, i, t] for v in V)
                   for i in C for t in T_dias), name="Equilibrio_Inventario")
+
+# binaria de remanentes de basura lol
+for i in C:
+    # Definimos el M_local (la máxima biomasa posible en ese centro)
+    M_local = I0_centros[i] + sum(Bio[i][t] for t in T_dias)
+    
+    for t in T_dias:
+        model.addConstr(
+            I[i, t] <= M_local * Quedo_Biomasa[i, t],
+            name=f"Activa_Indicador_Inventario_{i}_{t}"
+        )
 
 # 3. Capacidad de los vehículos
 model.addConstrs((gp.quicksum(Q[v,i,t] for i in C) <= CapV[v] for v in V for t in T_dias), name="CapVehiculo")
@@ -257,6 +270,24 @@ if model.status in [GRB.OPTIMAL, GRB.SUBOPTIMAL]:
     print("\n" + "="*60)
     print(" 📊 RESUMEN ESTADÍSTICO DE LA OPERACIÓN LOGÍSTICA (CONSOLA)")
     print("="*60)
+
+    print("\n💸 [REGISTRO DE DEUDA POR INVENTARIO (Quedo_Biomasa)]")
+    
+    # Recopilamos los días y centros donde la variable Quedo_Biomasa tomó valor 1
+    # Usamos > 0.5 por las tolerancias de los decimales en Gurobi
+    dias_con_deuda = [(t, i) for t in T_dias for i in C if Quedo_Biomasa[i,t].X > 0.5]
+
+    if not dias_con_deuda:
+        print(" ✅ Excelente: Ningún centro generó deuda por biomasa remanente.")
+    else:
+        deudas_por_dia = {}
+        # Agrupamos por día para que se lea mejor en la consola
+        for t, c in dias_con_deuda:
+            deudas_por_dia.setdefault(t, []).append(c)
+            
+        for t in sorted(deudas_por_dia.keys()):
+            centros_str = ", ".join(map(str, deudas_por_dia[t]))
+            print(f"  • Día {t:<3} | Se cobró deuda/multa en los Centros: {centros_str}")
     
     print("\n💰 [BALANCE FINANCIERO TOTAL]")
     print(f" ► Presupuesto Base Asignado : {Presupuesto:,.0f} CLP")
