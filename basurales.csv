@@ -1,3 +1,4 @@
-id;CapVac;CapB;CostoEmergencia;I0_plantas;objeto_vaciado
-5;500;1000;1500;0;1500
-6;350;1500;3000;0;2000
+id;CapVac;CapB;CostoEmergencia_(clp/ton);Inventario_inicial_plantas;objeto_vaciado_(clp/ton)
+5;500;1000;30000;0;1500
+6;350;1500;40000;0;3000
+;;;;;

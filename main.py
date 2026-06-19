@@ -23,9 +23,9 @@ CostoKm = dict(zip(vehiculos_df['id'].astype(int), vehiculos_df['diesel_clp'].as
 basurales_df = pd.read_csv('basurales.csv', sep=';').dropna(subset=['id'])
 CapB = dict(zip(basurales_df['id'].astype(int), basurales_df['CapB'].astype(float)))
 CapVac = dict(zip(basurales_df['id'].astype(int), basurales_df['CapVac'].astype(float)))
-CostoEmergencia = dict(zip(basurales_df['id'].astype(int), basurales_df['CostoEmergencia'].astype(float)))
-I0_plantas = dict(zip(basurales_df['id'].astype(int), basurales_df['I0_plantas'].astype(float)))
-Cvac = dict(zip(basurales_df['id'].astype(int), basurales_df['objeto_vaciado'].astype(float))) # 'objeto_vaciado' es Cvac
+CostoEmergencia = dict(zip(basurales_df['id'].astype(int), basurales_df['CostoEmergencia_(clp/ton)'].astype(float)))
+I0_plantas = dict(zip(basurales_df['id'].astype(int), basurales_df['Inventario_inicial_plantas'].astype(float)))
+Cvac = dict(zip(basurales_df['id'].astype(int), basurales_df['objeto_vaciado_(clp/ton)'].astype(float))) # 'objeto_vaciado' es Cvac
 
 # --- Costos Fijos por Centro (Cargados desde puertos.csv) ---
 puertos_df = pd.read_csv('puertos.csv', sep=';').dropna(subset=['id'])

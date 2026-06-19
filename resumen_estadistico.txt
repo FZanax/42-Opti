@@ -4,9 +4,9 @@
 
 💰 [BALANCE FINANCIERO TOTAL]
  ► Presupuesto Base Asignado : 100,000,000 CLP
- ► Gasto Operativo           : 402,298,587 CLP
+ ► Gasto Operativo           : 445,720,587 CLP
  ► Multas por Inventario (Pt): 73,700,000 CLP
- ► Multas Incineración (E)   : 43,422,000 CLP
+ ► Multas Incineración (E)   : 0 CLP
  ► GASTO TOTAL EVALUADO      : 519,420,587 CLP
 
  ⚠️ SOBREGIRO REQUERIDO      : 419,420,587 CLP
