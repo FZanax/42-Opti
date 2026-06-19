@@ -66,9 +66,6 @@ for _, row in biomasa_df.iterrows():
     for c in C:
         Bio[c][t] = float(row[str(c)])
 
-# Penalización progresiva Pt por día
-Pt = {t: t * Pt_base for t in T_dias}
-
 
 # =============================================================================
 # 2. CONSTRUCCIÓN DEL MODELO MATEMÁTICO EN GUROBI
@@ -91,7 +88,7 @@ Activo = model.addVars(C, T_dias, vtype=GRB.BINARY, name="Activo")
 
 # --- COMPONENTES DE LA FUNCIÓN OBJETIVO ACTUALIZADA ---
 objetivo_transporte = gp.quicksum(CostoKm[v] * Dist[i,j] * X[v,i,j,t] for v in V for i in N for j in N for t in T_dias)
-objetivo_inventario = gp.quicksum(Pt[t] * I[i,t] for i in C for t in T_dias)
+objetivo_inventario = gp.quicksum(Pt_base * I[i,t] for i in C for t in T_dias)
 objetivo_fijo = gp.quicksum(Costo_fijo_centro[i] * X[v,j,i,t] for v in V for i in C for j in N for t in T_dias)
 objetivo_emergencia = gp.quicksum(CostoEmergencia[b] * E[b, t] for b in B for t in T_dias)
 objetivo_vaciado = gp.quicksum(Cvac[b] * W[b,t] for b in B for t in T_dias)
@@ -219,7 +216,7 @@ if model.status in [GRB.OPTIMAL, GRB.SUBOPTIMAL]:
     costo_fijo_val = sum(Costo_fijo_centro[i] * X[v,j,i,t].X for v in V for i in C for j in N for t in T_dias)
     costo_vaciado_val = sum(Cvac[b] * W[b,t].X for b in B for t in T_dias)
     costo_emergencia_val = sum(CostoEmergencia[b] * E[b, t].X for b in B for t in T_dias)
-    costo_inventario_val = sum(Pt[t] * I[i,t].X for i in C for t in T_dias)
+    costo_inventario_val = sum(Pt_base * I[i,t].X for i in C for t in T_dias)
     
     # LÓGICA DE SUMAS
     gasto_operativo = costo_transporte_val + costo_fijo_val + costo_vaciado_val

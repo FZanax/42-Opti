@@ -4,14 +4,14 @@
 
 💰 [BALANCE FINANCIERO TOTAL]
  ► Presupuesto Base Asignado : 100,000,000 CLP
- ► Gasto Operativo           : 413,816,773 CLP
- ► Multas por Inventario (Pt): 1,743,600,000 CLP
+ ► Gasto Operativo           : 402,298,587 CLP
+ ► Multas por Inventario (Pt): 73,700,000 CLP
  ► Multas Incineración (E)   : 43,422,000 CLP
- ► GASTO TOTAL EVALUADO      : 2,200,838,773 CLP
+ ► GASTO TOTAL EVALUADO      : 519,420,587 CLP
 
- ⚠️ SOBREGIRO REQUERIDO      : 2,100,838,773 CLP
+ ⚠️ SOBREGIRO REQUERIDO      : 419,420,587 CLP
 
 🚚 [MÉTRICAS OPERATIVAS]
- ► Total de viajes a centros : 1201 viajes
+ ► Total de viajes a centros : 1173 viajes
  ► Biomasa total recolectada : 31,448.0 Toneladas
 ============================================================
