@@ -1,0 +1,3884 @@
+================================================================================
+             REPORTE COMPLETO DE VARIABLES DE DECISIÓN & BALANCES               
+================================================================================
+
+ [I] BALANCE FINANCIERO DE LA OPERACIÓN
+ ----------------------------------------------------------------------
+  ► Presupuesto Inicial Asignado :   100,000,000.00 CLP
+  ► Gasto Total (Sujeto a Límite):   100,000,000.00 CLP
+  ► Saldo Remanente Disponible:      0.00 CLP
+  ► Penalizaciones por Inventario:   17,609,238,900,000.00 CLP
+  ► Multas por Incineración (E):     14,884,879.74 CLP
+ ----------------------------------------------------------------------
+  VALOR FUNCIÓN OBJETIVO (ObjVal):   17,609,353,771,199.36 CLP
+================================================================================
+
+ [II] ESTADOS DE ALERTA (Activo) Y OPERACIONES DE LIMPIEZA (Y)
+ ----------------------------------------------------------------------
+  Día   Centro    Estado Alerta (Activo)   Se Limpia (Y)  
+ ----------------------------------------------------------------------
+  1     1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  1     2         🚨 ACTIVO (>15 Ton)        NO            
+  1     3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  1     4         🚨 ACTIVO (>15 Ton)        NO            
+  2     1         🚨 ACTIVO (>15 Ton)        NO            
+  2     2         🚨 ACTIVO (>15 Ton)        NO            
+  2     3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  2     4         🚨 ACTIVO (>15 Ton)        NO            
+  3     1         🚨 ACTIVO (>15 Ton)        NO            
+  3     2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  3     3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  3     4         🚨 ACTIVO (>15 Ton)        NO            
+  4     1         🚨 ACTIVO (>15 Ton)        NO            
+  4     2         🚨 ACTIVO (>15 Ton)        NO            
+  4     3         🚨 ACTIVO (>15 Ton)        NO            
+  4     4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  5     1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  5     2         🚨 ACTIVO (>15 Ton)        NO            
+  5     3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  5     4         🚨 ACTIVO (>15 Ton)        NO            
+  6     1         🚨 ACTIVO (>15 Ton)        NO            
+  6     2         🚨 ACTIVO (>15 Ton)        NO            
+  6     3         🚨 ACTIVO (>15 Ton)        NO            
+  6     4         🚨 ACTIVO (>15 Ton)        NO            
+  7     1         🚨 ACTIVO (>15 Ton)        NO            
+  7     2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  7     3         🚨 ACTIVO (>15 Ton)        NO            
+  7     4         🚨 ACTIVO (>15 Ton)        NO            
+  8     1         🚨 ACTIVO (>15 Ton)        NO            
+  8     2         🚨 ACTIVO (>15 Ton)        NO            
+  8     3         🚨 ACTIVO (>15 Ton)        NO            
+  8     4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  9     1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  9     2         🚨 ACTIVO (>15 Ton)        NO            
+  9     3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  9     4         🚨 ACTIVO (>15 Ton)        NO            
+  10    1         🚨 ACTIVO (>15 Ton)        NO            
+  10    2         🚨 ACTIVO (>15 Ton)        NO            
+  10    3         🚨 ACTIVO (>15 Ton)        NO            
+  10    4         🚨 ACTIVO (>15 Ton)        NO            
+  11    1         🚨 ACTIVO (>15 Ton)        NO            
+  11    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  11    3         🚨 ACTIVO (>15 Ton)        NO            
+  11    4         🚨 ACTIVO (>15 Ton)        NO            
+  12    1         🚨 ACTIVO (>15 Ton)        NO            
+  12    2         🚨 ACTIVO (>15 Ton)        NO            
+  12    3         🚨 ACTIVO (>15 Ton)        NO            
+  12    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  13    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  13    2         🚨 ACTIVO (>15 Ton)        NO            
+  13    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  13    4         🚨 ACTIVO (>15 Ton)        NO            
+  14    1         🚨 ACTIVO (>15 Ton)        NO            
+  14    2         🚨 ACTIVO (>15 Ton)        NO            
+  14    3         🚨 ACTIVO (>15 Ton)        NO            
+  14    4         🚨 ACTIVO (>15 Ton)        NO            
+  15    1         🚨 ACTIVO (>15 Ton)        NO            
+  15    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  15    3         🚨 ACTIVO (>15 Ton)        NO            
+  15    4         🚨 ACTIVO (>15 Ton)        NO            
+  16    1         🚨 ACTIVO (>15 Ton)        NO            
+  16    2         🚨 ACTIVO (>15 Ton)        NO            
+  16    3         🚨 ACTIVO (>15 Ton)        NO            
+  16    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  17    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  17    2         🚨 ACTIVO (>15 Ton)        NO            
+  17    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  17    4         🚨 ACTIVO (>15 Ton)        NO            
+  18    1         🚨 ACTIVO (>15 Ton)        NO            
+  18    2         🚨 ACTIVO (>15 Ton)        NO            
+  18    3         🚨 ACTIVO (>15 Ton)        NO            
+  18    4         🚨 ACTIVO (>15 Ton)        NO            
+  19    1         🚨 ACTIVO (>15 Ton)        NO            
+  19    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  19    3         🚨 ACTIVO (>15 Ton)        NO            
+  19    4         🚨 ACTIVO (>15 Ton)        NO            
+  20    1         🚨 ACTIVO (>15 Ton)        NO            
+  20    2         🚨 ACTIVO (>15 Ton)        NO            
+  20    3         🚨 ACTIVO (>15 Ton)        NO            
+  20    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  21    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  21    2         🚨 ACTIVO (>15 Ton)        NO            
+  21    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  21    4         🚨 ACTIVO (>15 Ton)        NO            
+  22    1         🚨 ACTIVO (>15 Ton)        NO            
+  22    2         🚨 ACTIVO (>15 Ton)        NO            
+  22    3         🚨 ACTIVO (>15 Ton)        NO            
+  22    4         🚨 ACTIVO (>15 Ton)        NO            
+  23    1         🚨 ACTIVO (>15 Ton)        NO            
+  23    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  23    3         🚨 ACTIVO (>15 Ton)        NO            
+  23    4         🚨 ACTIVO (>15 Ton)        NO            
+  24    1         🚨 ACTIVO (>15 Ton)        NO            
+  24    2         🚨 ACTIVO (>15 Ton)        NO            
+  24    3         🚨 ACTIVO (>15 Ton)        NO            
+  24    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  25    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  25    2         🚨 ACTIVO (>15 Ton)        NO            
+  25    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  25    4         🚨 ACTIVO (>15 Ton)        NO            
+  26    1         🚨 ACTIVO (>15 Ton)        NO            
+  26    2         🚨 ACTIVO (>15 Ton)        NO            
+  26    3         🚨 ACTIVO (>15 Ton)        NO            
+  26    4         🚨 ACTIVO (>15 Ton)        NO            
+  27    1         🚨 ACTIVO (>15 Ton)        NO            
+  27    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  27    3         🚨 ACTIVO (>15 Ton)        NO            
+  27    4         🚨 ACTIVO (>15 Ton)        NO            
+  28    1         🚨 ACTIVO (>15 Ton)        NO            
+  28    2         🚨 ACTIVO (>15 Ton)        NO            
+  28    3         🚨 ACTIVO (>15 Ton)        NO            
+  28    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  29    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  29    2         🚨 ACTIVO (>15 Ton)        NO            
+  29    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  29    4         🚨 ACTIVO (>15 Ton)        NO            
+  30    1         🚨 ACTIVO (>15 Ton)        NO            
+  30    2         🚨 ACTIVO (>15 Ton)        NO            
+  30    3         🚨 ACTIVO (>15 Ton)        NO            
+  30    4         🚨 ACTIVO (>15 Ton)        NO            
+  31    1         🚨 ACTIVO (>15 Ton)        NO            
+  31    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  31    3         🚨 ACTIVO (>15 Ton)        NO            
+  31    4         🚨 ACTIVO (>15 Ton)        NO            
+  32    1         🚨 ACTIVO (>15 Ton)        NO            
+  32    2         🚨 ACTIVO (>15 Ton)        NO            
+  32    3         🚨 ACTIVO (>15 Ton)        NO            
+  32    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  33    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  33    2         🚨 ACTIVO (>15 Ton)        NO            
+  33    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  33    4         🚨 ACTIVO (>15 Ton)        NO            
+  34    1         🚨 ACTIVO (>15 Ton)        NO            
+  34    2         🚨 ACTIVO (>15 Ton)        NO            
+  34    3         🚨 ACTIVO (>15 Ton)        NO            
+  34    4         🚨 ACTIVO (>15 Ton)        NO            
+  35    1         🚨 ACTIVO (>15 Ton)        NO            
+  35    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  35    3         🚨 ACTIVO (>15 Ton)        NO            
+  35    4         🚨 ACTIVO (>15 Ton)        NO            
+  36    1         🚨 ACTIVO (>15 Ton)        NO            
+  36    2         🚨 ACTIVO (>15 Ton)        NO            
+  36    3         🚨 ACTIVO (>15 Ton)        NO            
+  36    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  37    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  37    2         🚨 ACTIVO (>15 Ton)        NO            
+  37    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  37    4         🚨 ACTIVO (>15 Ton)        NO            
+  38    1         🚨 ACTIVO (>15 Ton)        NO            
+  38    2         🚨 ACTIVO (>15 Ton)        NO            
+  38    3         🚨 ACTIVO (>15 Ton)        NO            
+  38    4         🚨 ACTIVO (>15 Ton)        NO            
+  39    1         🚨 ACTIVO (>15 Ton)        NO            
+  39    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  39    3         🚨 ACTIVO (>15 Ton)        NO            
+  39    4         🚨 ACTIVO (>15 Ton)        NO            
+  40    1         🚨 ACTIVO (>15 Ton)        NO            
+  40    2         🚨 ACTIVO (>15 Ton)        NO            
+  40    3         🚨 ACTIVO (>15 Ton)        NO            
+  40    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  41    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  41    2         🚨 ACTIVO (>15 Ton)        NO            
+  41    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  41    4         🚨 ACTIVO (>15 Ton)        NO            
+  42    1         🚨 ACTIVO (>15 Ton)        NO            
+  42    2         🚨 ACTIVO (>15 Ton)        NO            
+  42    3         🚨 ACTIVO (>15 Ton)        NO            
+  42    4         🚨 ACTIVO (>15 Ton)        NO            
+  43    1         🚨 ACTIVO (>15 Ton)        NO            
+  43    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  43    3         🚨 ACTIVO (>15 Ton)        NO            
+  43    4         🚨 ACTIVO (>15 Ton)        NO            
+  44    1         🚨 ACTIVO (>15 Ton)        NO            
+  44    2         🚨 ACTIVO (>15 Ton)        NO            
+  44    3         🚨 ACTIVO (>15 Ton)        NO            
+  44    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  45    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  45    2         🚨 ACTIVO (>15 Ton)        NO            
+  45    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  45    4         🚨 ACTIVO (>15 Ton)        NO            
+  46    1         🚨 ACTIVO (>15 Ton)        NO            
+  46    2         🚨 ACTIVO (>15 Ton)        NO            
+  46    3         🚨 ACTIVO (>15 Ton)        NO            
+  46    4         🚨 ACTIVO (>15 Ton)        NO            
+  47    1         🚨 ACTIVO (>15 Ton)        NO            
+  47    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  47    3         🚨 ACTIVO (>15 Ton)        NO            
+  47    4         🚨 ACTIVO (>15 Ton)        NO            
+  48    1         🚨 ACTIVO (>15 Ton)        NO            
+  48    2         🚨 ACTIVO (>15 Ton)        NO            
+  48    3         🚨 ACTIVO (>15 Ton)        NO            
+  48    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  49    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  49    2         🚨 ACTIVO (>15 Ton)        NO            
+  49    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  49    4         🚨 ACTIVO (>15 Ton)        NO            
+  50    1         🚨 ACTIVO (>15 Ton)        NO            
+  50    2         🚨 ACTIVO (>15 Ton)        NO            
+  50    3         🚨 ACTIVO (>15 Ton)        NO            
+  50    4         🚨 ACTIVO (>15 Ton)        NO            
+  51    1         🚨 ACTIVO (>15 Ton)        NO            
+  51    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  51    3         🚨 ACTIVO (>15 Ton)        NO            
+  51    4         🚨 ACTIVO (>15 Ton)        NO            
+  52    1         🚨 ACTIVO (>15 Ton)        NO            
+  52    2         🚨 ACTIVO (>15 Ton)        NO            
+  52    3         🚨 ACTIVO (>15 Ton)        NO            
+  52    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  53    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  53    2         🚨 ACTIVO (>15 Ton)        NO            
+  53    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  53    4         🚨 ACTIVO (>15 Ton)        NO            
+  54    1         🚨 ACTIVO (>15 Ton)        NO            
+  54    2         🚨 ACTIVO (>15 Ton)        NO            
+  54    3         🚨 ACTIVO (>15 Ton)        NO            
+  54    4         🚨 ACTIVO (>15 Ton)        NO            
+  55    1         🚨 ACTIVO (>15 Ton)        NO            
+  55    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  55    3         🚨 ACTIVO (>15 Ton)        NO            
+  55    4         🚨 ACTIVO (>15 Ton)        NO            
+  56    1         🚨 ACTIVO (>15 Ton)        NO            
+  56    2         🚨 ACTIVO (>15 Ton)        NO            
+  56    3         🚨 ACTIVO (>15 Ton)        NO            
+  56    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  57    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  57    2         🚨 ACTIVO (>15 Ton)        NO            
+  57    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  57    4         🚨 ACTIVO (>15 Ton)        NO            
+  58    1         🚨 ACTIVO (>15 Ton)        NO            
+  58    2         🚨 ACTIVO (>15 Ton)        NO            
+  58    3         🚨 ACTIVO (>15 Ton)        NO            
+  58    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  59    1         🚨 ACTIVO (>15 Ton)        NO            
+  59    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  59    3         🚨 ACTIVO (>15 Ton)        NO            
+  59    4         🚨 ACTIVO (>15 Ton)        NO            
+  60    1         🚨 ACTIVO (>15 Ton)        NO            
+  60    2         🚨 ACTIVO (>15 Ton)        NO            
+  60    3         🚨 ACTIVO (>15 Ton)        NO            
+  60    4         🚨 ACTIVO (>15 Ton)        NO            
+  61    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  61    2         🚨 ACTIVO (>15 Ton)        NO            
+  61    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  61    4         🚨 ACTIVO (>15 Ton)        NO            
+  62    1         🚨 ACTIVO (>15 Ton)        NO            
+  62    2         🚨 ACTIVO (>15 Ton)        NO            
+  62    3         🚨 ACTIVO (>15 Ton)        NO            
+  62    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  63    1         🚨 ACTIVO (>15 Ton)        NO            
+  63    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  63    3         🚨 ACTIVO (>15 Ton)        NO            
+  63    4         🚨 ACTIVO (>15 Ton)        NO            
+  64    1         🚨 ACTIVO (>15 Ton)        NO            
+  64    2         🚨 ACTIVO (>15 Ton)        NO            
+  64    3         🚨 ACTIVO (>15 Ton)        NO            
+  64    4         🚨 ACTIVO (>15 Ton)        NO            
+  65    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  65    2         🚨 ACTIVO (>15 Ton)        NO            
+  65    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  65    4         🚨 ACTIVO (>15 Ton)        NO            
+  66    1         🚨 ACTIVO (>15 Ton)        NO            
+  66    2         🚨 ACTIVO (>15 Ton)        NO            
+  66    3         🚨 ACTIVO (>15 Ton)        NO            
+  66    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  67    1         🚨 ACTIVO (>15 Ton)        NO            
+  67    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  67    3         🚨 ACTIVO (>15 Ton)        NO            
+  67    4         🚨 ACTIVO (>15 Ton)        NO            
+  68    1         🚨 ACTIVO (>15 Ton)        NO            
+  68    2         🚨 ACTIVO (>15 Ton)        NO            
+  68    3         🚨 ACTIVO (>15 Ton)        NO            
+  68    4         🚨 ACTIVO (>15 Ton)        NO            
+  69    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  69    2         🚨 ACTIVO (>15 Ton)        NO            
+  69    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  69    4         🚨 ACTIVO (>15 Ton)        NO            
+  70    1         🚨 ACTIVO (>15 Ton)        NO            
+  70    2         🚨 ACTIVO (>15 Ton)        NO            
+  70    3         🚨 ACTIVO (>15 Ton)        NO            
+  70    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  71    1         🚨 ACTIVO (>15 Ton)        NO            
+  71    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  71    3         🚨 ACTIVO (>15 Ton)        NO            
+  71    4         🚨 ACTIVO (>15 Ton)        NO            
+  72    1         🚨 ACTIVO (>15 Ton)        NO            
+  72    2         🚨 ACTIVO (>15 Ton)        NO            
+  72    3         🚨 ACTIVO (>15 Ton)        NO            
+  72    4         🚨 ACTIVO (>15 Ton)        NO            
+  73    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  73    2         🚨 ACTIVO (>15 Ton)        NO            
+  73    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  73    4         🚨 ACTIVO (>15 Ton)        NO            
+  74    1         🚨 ACTIVO (>15 Ton)        NO            
+  74    2         🚨 ACTIVO (>15 Ton)        NO            
+  74    3         🚨 ACTIVO (>15 Ton)        NO            
+  74    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  75    1         🚨 ACTIVO (>15 Ton)        NO            
+  75    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  75    3         🚨 ACTIVO (>15 Ton)        NO            
+  75    4         🚨 ACTIVO (>15 Ton)        NO            
+  76    1         🚨 ACTIVO (>15 Ton)        NO            
+  76    2         🚨 ACTIVO (>15 Ton)        NO            
+  76    3         🚨 ACTIVO (>15 Ton)        NO            
+  76    4         🚨 ACTIVO (>15 Ton)        NO            
+  77    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  77    2         🚨 ACTIVO (>15 Ton)        NO            
+  77    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  77    4         🚨 ACTIVO (>15 Ton)        NO            
+  78    1         🚨 ACTIVO (>15 Ton)        NO            
+  78    2         🚨 ACTIVO (>15 Ton)        NO            
+  78    3         🚨 ACTIVO (>15 Ton)        NO            
+  78    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  79    1         🚨 ACTIVO (>15 Ton)        NO            
+  79    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  79    3         🚨 ACTIVO (>15 Ton)        NO            
+  79    4         🚨 ACTIVO (>15 Ton)        NO            
+  80    1         🚨 ACTIVO (>15 Ton)        NO            
+  80    2         🚨 ACTIVO (>15 Ton)        NO            
+  80    3         🚨 ACTIVO (>15 Ton)        NO            
+  80    4         🚨 ACTIVO (>15 Ton)        NO            
+  81    1         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  81    2         🚨 ACTIVO (>15 Ton)        NO            
+  81    3         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  81    4         🚨 ACTIVO (>15 Ton)        NO            
+  82    1         🚨 ACTIVO (>15 Ton)        NO            
+  82    2         🚨 ACTIVO (>15 Ton)        NO            
+  82    3         🚨 ACTIVO (>15 Ton)        NO            
+  82    4         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  83    1         🚨 ACTIVO (>15 Ton)        NO            
+  83    2         🚨 ACTIVO (>15 Ton)       🧹 SÍ           
+  83    3         🚨 ACTIVO (>15 Ton)        NO            
+  83    4         🚨 ACTIVO (>15 Ton)        NO            
+  84    1         🚨 ACTIVO (>15 Ton)        NO            
+  84    2         🚨 ACTIVO (>15 Ton)        NO            
+  84    3         🚨 ACTIVO (>15 Ton)        NO            
+  84    4         🚨 ACTIVO (>15 Ton)        NO            
+================================================================================
+
+ [III] RUTAS DE VEHÍCULOS ACTIVAS (X)
+ ----------------------------------------------------------------------
+  DÍA 1:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 1 : Base 0 -> Centro 1
+   • Camión 1 : Centro 1 -> Planta 5
+   • Camión 1 : Planta 5 -> Planta 6
+   • Camión 1 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 2:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 3:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 4:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 5:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 1 : Base 0 -> Centro 1
+   • Camión 1 : Centro 1 -> Planta 5
+   • Camión 1 : Planta 5 -> Planta 6
+   • Camión 1 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 6:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 7:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 8:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 9:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 1 : Base 0 -> Centro 1
+   • Camión 1 : Centro 1 -> Planta 5
+   • Camión 1 : Planta 5 -> Planta 6
+   • Camión 1 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 10:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 11:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 12:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 13:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 1 : Base 0 -> Centro 1
+   • Camión 1 : Centro 1 -> Planta 5
+   • Camión 1 : Planta 5 -> Planta 6
+   • Camión 1 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 14:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 15:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 16:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 17:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 1 : Base 0 -> Centro 1
+   • Camión 1 : Centro 1 -> Planta 5
+   • Camión 1 : Planta 5 -> Planta 6
+   • Camión 1 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 18:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 19:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 20:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 21:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 1 : Base 0 -> Centro 1
+   • Camión 1 : Centro 1 -> Planta 5
+   • Camión 1 : Planta 5 -> Planta 6
+   • Camión 1 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 22:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 23:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 24:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 25:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 1 : Base 0 -> Centro 1
+   • Camión 1 : Centro 1 -> Planta 5
+   • Camión 1 : Planta 5 -> Planta 6
+   • Camión 1 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 26:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 27:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 28:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 29:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 1 : Base 0 -> Centro 1
+   • Camión 1 : Centro 1 -> Planta 5
+   • Camión 1 : Planta 5 -> Planta 6
+   • Camión 1 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 30:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 31:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 32:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 33:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 1
+   • Camión 4 : Centro 1 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 34:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 35:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 36:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 37:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 1
+   • Camión 4 : Centro 1 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 38:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 39:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 40:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 41:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 1
+   • Camión 4 : Centro 1 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 42:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 43:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 44:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 45:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 1
+   • Camión 4 : Centro 1 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 6 : Base 0 -> Centro 3
+   • Camión 6 : Centro 3 -> Planta 6
+   • Camión 6 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 46:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 47:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 48:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 49:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 1
+   • Camión 4 : Centro 1 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 50:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 51:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 52:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 53:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 1
+   • Camión 4 : Centro 1 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 54:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 3 : Base 0 -> Centro 3
+   • Camión 3 : Centro 3 -> Planta 6
+   • Camión 3 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 55:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+   • Camión 9 : Base 0 -> Centro 3
+   • Camión 9 : Centro 3 -> Planta 6
+   • Camión 9 : Planta 6 -> Base 0
+  DÍA 56:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 57:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 1
+   • Camión 4 : Centro 1 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 58:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 59:
+   • Camión 0 : Base 0 -> Centro 3
+   • Camión 0 : Centro 3 -> Planta 6
+   • Camión 0 : Planta 6 -> Base 0
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 60:
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 5 : Base 0 -> Centro 3
+   • Camión 5 : Centro 3 -> Planta 6
+   • Camión 5 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 61:
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 1
+   • Camión 4 : Centro 1 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 62:
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 63:
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 64:
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 65:
+   • Camión 2 : Base 0 -> Centro 3
+   • Camión 2 : Centro 3 -> Planta 6
+   • Camión 2 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 1
+   • Camión 4 : Centro 1 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 66:
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 67:
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 68:
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 69:
+   • Camión 4 : Base 0 -> Centro 1
+   • Camión 4 : Centro 1 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 70:
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+  DÍA 71:
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+  DÍA 73:
+   • Camión 4 : Base 0 -> Centro 1
+   • Camión 4 : Centro 1 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+   • Camión 8 : Base 0 -> Centro 3
+   • Camión 8 : Centro 3 -> Planta 6
+   • Camión 8 : Planta 6 -> Base 0
+  DÍA 74:
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+  DÍA 75:
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+  DÍA 77:
+   • Camión 1 : Base 0 -> Centro 1
+   • Camión 1 : Centro 1 -> Planta 5
+   • Camión 1 : Planta 5 -> Planta 6
+   • Camión 1 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+  DÍA 78:
+   • Camión 4 : Base 0 -> Centro 4
+   • Camión 4 : Centro 4 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+  DÍA 79:
+   • Camión 4 : Base 0 -> Centro 2
+   • Camión 4 : Centro 2 -> Planta 5
+   • Camión 4 : Planta 5 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+  DÍA 81:
+   • Camión 1 : Base 0 -> Centro 1
+   • Camión 1 : Centro 1 -> Planta 5
+   • Camión 1 : Planta 5 -> Planta 6
+   • Camión 1 : Planta 6 -> Base 0
+   • Camión 4 : Base 0 -> Centro 3
+   • Camión 4 : Centro 3 -> Planta 6
+   • Camión 4 : Planta 6 -> Base 0
+  DÍA 82:
+   • Camión 1 : Base 0 -> Centro 4
+   • Camión 1 : Centro 4 -> Planta 6
+   • Camión 1 : Planta 6 -> Base 0
+  DÍA 83:
+   • Camión 1 : Base 0 -> Centro 2
+   • Camión 1 : Centro 2 -> Planta 5
+   • Camión 1 : Planta 5 -> Planta 6
+   • Camión 1 : Planta 6 -> Base 0
+================================================================================
+
+ [IV] CARGA, DESCARGA Y LOGÍSTICA DE BIOMASA (Q, D)
+ ----------------------------------------------------------------------
+  DÍA 1:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 1  CARGA      10.0 Ton en Centro 1
+   • Camión 1  DESCARGA   10.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 2:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 3:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 4:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 5:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 1  CARGA      10.0 Ton en Centro 1
+   • Camión 1  DESCARGA   10.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 6:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 7:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 8:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 9:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 1  CARGA      10.0 Ton en Centro 1
+   • Camión 1  DESCARGA   10.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 10:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 11:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 12:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 13:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 1  CARGA      10.0 Ton en Centro 1
+   • Camión 1  DESCARGA   10.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 14:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 15:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 16:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 17:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 1  CARGA      10.0 Ton en Centro 1
+   • Camión 1  DESCARGA   10.0 Ton en Planta 6
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 18:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 6
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 19:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 20:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 6
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 6
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 6
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 21:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 1  CARGA      10.0 Ton en Centro 1
+   • Camión 1  DESCARGA   10.0 Ton en Planta 6
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 6
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 22:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 23:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 6
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 6
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 24:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 6
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 25:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 1  CARGA      10.0 Ton en Centro 1
+   • Camión 1  DESCARGA   10.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 26:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 6
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 27:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 6
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 28:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 6
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 29:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 1  CARGA      10.0 Ton en Centro 1
+   • Camión 1  DESCARGA   10.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 30:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 6
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 6
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 31:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 32:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 33:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 1
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 34:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 35:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 6
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 6
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 36:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 37:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 1
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 38:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 39:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 40:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 41:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 1
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 42:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 43:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 6
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 6
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 6
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 44:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 45:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 6
+   • Camión 4  CARGA      43.0 Ton en Centro 1
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 6  CARGA      21.0 Ton en Centro 3
+   • Camión 6  DESCARGA   21.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 46:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 47:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 6
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 48:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 6
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 49:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 1
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 50:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 6
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 51:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 6
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 6
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 52:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 6
+  DÍA 53:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 6
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 6
+   • Camión 4  CARGA      43.0 Ton en Centro 1
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 6
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 54:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 6
+   • Camión 3  CARGA      25.0 Ton en Centro 3
+   • Camión 3  DESCARGA   25.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 6
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 6
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA   27.0 Ton en Planta 5
+  DÍA 55:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+   • Camión 9  CARGA      27.0 Ton en Centro 3
+   • Camión 9  DESCARGA    8.0 Ton en Planta 5
+   • Camión 9  DESCARGA   19.0 Ton en Planta 6
+  DÍA 56:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 6
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 6
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 6
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 57:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 6
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 1
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 58:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 6
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 6
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 59:
+   • Camión 0  CARGA      30.0 Ton en Centro 3
+   • Camión 0  DESCARGA   30.0 Ton en Planta 5
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 6
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 6
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 6
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 60:
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 6
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 5  CARGA      38.0 Ton en Centro 3
+   • Camión 5  DESCARGA   38.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 61:
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 1
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 62:
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 63:
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 64:
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 65:
+   • Camión 2  CARGA      50.0 Ton en Centro 3
+   • Camión 2  DESCARGA   50.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 1
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 66:
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 67:
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 68:
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 69:
+   • Camión 4  CARGA      43.0 Ton en Centro 1
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 70:
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+  DÍA 71:
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+  DÍA 73:
+   • Camión 4  CARGA      43.0 Ton en Centro 1
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+   • Camión 8  CARGA      47.0 Ton en Centro 3
+   • Camión 8  DESCARGA   47.0 Ton en Planta 5
+  DÍA 74:
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+  DÍA 75:
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+  DÍA 77:
+   • Camión 1  CARGA      10.0 Ton en Centro 1
+   • Camión 1  DESCARGA   10.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+  DÍA 78:
+   • Camión 4  CARGA      43.0 Ton en Centro 4
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+  DÍA 79:
+   • Camión 4  CARGA      43.0 Ton en Centro 2
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+  DÍA 81:
+   • Camión 1  CARGA      10.0 Ton en Centro 1
+   • Camión 1  DESCARGA   10.0 Ton en Planta 5
+   • Camión 4  CARGA      43.0 Ton en Centro 3
+   • Camión 4  DESCARGA   43.0 Ton en Planta 5
+  DÍA 82:
+   • Camión 1  CARGA      10.0 Ton en Centro 4
+   • Camión 1  DESCARGA   10.0 Ton en Planta 5
+  DÍA 83:
+   • Camión 1  CARGA      10.0 Ton en Centro 2
+   • Camión 1  DESCARGA   10.0 Ton en Planta 5
+================================================================================
+
+ [V] EVOLUCIÓN DE INVENTARIOS Y PROCESAMIENTO (I, I_B, W, E)
+ ----------------------------------------------------------------------
+  DÍA 1:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 534.0 Ton en agua.
+     • Centro 2: 656.0 Ton en agua.
+     • Centro 3: 55.0 Ton en agua.
+     • Centro 4: 208.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 9.1 Ton/día | Incinerado: 281.9 Ton
+  --------------------------------------------------------------------
+  DÍA 2:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 1030.0 Ton en agua.
+     • Centro 2: 704.0 Ton en agua.
+     • Centro 3: 174.0 Ton en agua.
+     • Centro 4: 528.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 3:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 1206.0 Ton en agua.
+     • Centro 2: 1157.0 Ton en agua.
+     • Centro 3: 192.0 Ton en agua.
+     • Centro 4: 736.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 562.0 Ton
+  --------------------------------------------------------------------
+  DÍA 4:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 1398.0 Ton en agua.
+     • Centro 2: 1301.0 Ton en agua.
+     • Centro 3: 338.0 Ton en agua.
+     • Centro 4: 837.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 5:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 1628.0 Ton en agua.
+     • Centro 2: 1813.0 Ton en agua.
+     • Centro 3: 505.0 Ton en agua.
+     • Centro 4: 1221.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 572.0 Ton
+  --------------------------------------------------------------------
+  DÍA 6:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 1932.0 Ton en agua.
+     • Centro 2: 2181.0 Ton en agua.
+     • Centro 3: 624.0 Ton en agua.
+     • Centro 4: 1573.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 7:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 2220.0 Ton en agua.
+     • Centro 2: 2282.0 Ton en agua.
+     • Centro 3: 738.0 Ton en agua.
+     • Centro 4: 1781.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 562.0 Ton
+  --------------------------------------------------------------------
+  DÍA 8:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 2652.0 Ton en agua.
+     • Centro 2: 2650.0 Ton en agua.
+     • Centro 3: 644.0 Ton en agua.
+     • Centro 4: 1786.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 9:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 2770.0 Ton en agua.
+     • Centro 2: 3066.0 Ton en agua.
+     • Centro 3: 491.0 Ton en agua.
+     • Centro 4: 1930.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 572.0 Ton
+  --------------------------------------------------------------------
+  DÍA 10:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 2978.0 Ton en agua.
+     • Centro 2: 3434.0 Ton en agua.
+     • Centro 3: 706.0 Ton en agua.
+     • Centro 4: 2170.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 11:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 3090.0 Ton en agua.
+     • Centro 2: 3423.0 Ton en agua.
+     • Centro 3: 964.0 Ton en agua.
+     • Centro 4: 2170.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 562.0 Ton
+  --------------------------------------------------------------------
+  DÍA 12:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 3554.0 Ton en agua.
+     • Centro 2: 3743.0 Ton en agua.
+     • Centro 3: 1014.0 Ton en agua.
+     • Centro 4: 2271.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 13:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 3816.0 Ton en agua.
+     • Centro 2: 4095.0 Ton en agua.
+     • Centro 3: 1037.0 Ton en agua.
+     • Centro 4: 2303.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 572.0 Ton
+  --------------------------------------------------------------------
+  DÍA 14:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 3880.0 Ton en agua.
+     • Centro 2: 4351.0 Ton en agua.
+     • Centro 3: 1140.0 Ton en agua.
+     • Centro 4: 2335.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 281.0 Ton
+  --------------------------------------------------------------------
+  DÍA 15:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 4024.0 Ton en agua.
+     • Centro 2: 4356.0 Ton en agua.
+     • Centro 3: 1398.0 Ton en agua.
+     • Centro 4: 2815.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 16:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 4136.0 Ton en agua.
+     • Centro 2: 4788.0 Ton en agua.
+     • Centro 3: 1592.0 Ton en agua.
+     • Centro 4: 3076.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 562.0 Ton
+  --------------------------------------------------------------------
+  DÍA 17:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 4350.0 Ton en agua.
+     • Centro 2: 5268.0 Ton en agua.
+     • Centro 3: 1439.0 Ton en agua.
+     • Centro 4: 3236.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 10.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 18:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 4862.0 Ton en agua.
+     • Centro 2: 5348.0 Ton en agua.
+     • Centro 3: 1542.0 Ton en agua.
+     • Centro 4: 3476.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 541.0 Ton
+     • Planta 6 -> Guardado: 31.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 19:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 5198.0 Ton en agua.
+     • Centro 2: 5817.0 Ton en agua.
+     • Centro 3: 1576.0 Ton en agua.
+     • Centro 4: 3924.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 31.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 20:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 5694.0 Ton en agua.
+     • Centro 2: 5913.0 Ton en agua.
+     • Centro 3: 1642.0 Ton en agua.
+     • Centro 4: 4169.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 444.0 Ton
+     • Planta 6 -> Guardado: 149.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 21:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 5828.0 Ton en agua.
+     • Centro 2: 6393.0 Ton en agua.
+     • Centro 3: 1569.0 Ton en agua.
+     • Centro 4: 4585.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 256.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 184.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 22:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 5924.0 Ton en agua.
+     • Centro 2: 6505.0 Ton en agua.
+     • Centro 3: 1688.0 Ton en agua.
+     • Centro 4: 5033.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 537.0 Ton
+     • Planta 6 -> Guardado: 184.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 23:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 6420.0 Ton en agua.
+     • Centro 2: 6734.0 Ton en agua.
+     • Centro 3: 1514.0 Ton en agua.
+     • Centro 4: 5529.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 184.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 24:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 6692.0 Ton en agua.
+     • Centro 2: 7246.0 Ton en agua.
+     • Centro 3: 1660.0 Ton en agua.
+     • Centro 4: 6014.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 422.0 Ton
+     • Planta 6 -> Guardado: 324.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 25:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 6970.0 Ton en agua.
+     • Centro 2: 7470.0 Ton en agua.
+     • Centro 3: 1827.0 Ton en agua.
+     • Centro 4: 6478.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 291.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 324.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 26:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 7450.0 Ton en agua.
+     • Centro 2: 7934.0 Ton en agua.
+     • Centro 3: 1754.0 Ton en agua.
+     • Centro 4: 6958.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 551.0 Ton
+     • Planta 6 -> Guardado: 345.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 27:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 7962.0 Ton en agua.
+     • Centro 2: 8147.0 Ton en agua.
+     • Centro 3: 1596.0 Ton en agua.
+     • Centro 4: 7166.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 251.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 375.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 28:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 7978.0 Ton en agua.
+     • Centro 2: 8611.0 Ton en agua.
+     • Centro 3: 1742.0 Ton en agua.
+     • Centro 4: 7283.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 494.0 Ton
+     • Planta 6 -> Guardado: 413.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 29:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 8336.0 Ton en agua.
+     • Centro 2: 8723.0 Ton en agua.
+     • Centro 3: 1813.0 Ton en agua.
+     • Centro 4: 7443.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 291.0 Ton
+     • Planta 6 -> Guardado: 413.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 30:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 8688.0 Ton en agua.
+     • Centro 2: 8739.0 Ton en agua.
+     • Centro 3: 1996.0 Ton en agua.
+     • Centro 4: 7507.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 213.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 481.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 31:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 9200.0 Ton en agua.
+     • Centro 2: 9224.0 Ton en agua.
+     • Centro 3: 2190.0 Ton en agua.
+     • Centro 4: 7843.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 494.0 Ton
+     • Planta 6 -> Guardado: 481.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 32:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 9520.0 Ton en agua.
+     • Centro 2: 9384.0 Ton en agua.
+     • Centro 3: 2288.0 Ton en agua.
+     • Centro 4: 8328.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 481.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 33:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 9989.0 Ton en agua.
+     • Centro 2: 9880.0 Ton en agua.
+     • Centro 3: 2578.0 Ton en agua.
+     • Centro 4: 8392.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 562.0 Ton
+     • Planta 6 -> Guardado: 481.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 34:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 10389.0 Ton en agua.
+     • Centro 2: 9976.0 Ton en agua.
+     • Centro 3: 2649.0 Ton en agua.
+     • Centro 4: 8744.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 281.0 Ton
+     • Planta 6 -> Guardado: 481.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 35:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 10549.0 Ton en agua.
+     • Centro 2: 10285.0 Ton en agua.
+     • Centro 3: 2443.0 Ton en agua.
+     • Centro 4: 8760.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 201.0 Ton
+     • Planta 6 -> Guardado: 561.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 36:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 10933.0 Ton en agua.
+     • Centro 2: 10573.0 Ton en agua.
+     • Centro 3: 2461.0 Ton en agua.
+     • Centro 4: 8925.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 281.0 Ton
+     • Planta 6 -> Guardado: 561.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 37:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 11386.0 Ton en agua.
+     • Centro 2: 10621.0 Ton en agua.
+     • Centro 3: 2719.0 Ton en agua.
+     • Centro 4: 8973.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 561.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 38:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 11546.0 Ton en agua.
+     • Centro 2: 10701.0 Ton en agua.
+     • Centro 3: 2742.0 Ton en agua.
+     • Centro 4: 9261.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 562.0 Ton
+     • Planta 6 -> Guardado: 561.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 39:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 11754.0 Ton en agua.
+     • Centro 2: 10754.0 Ton en agua.
+     • Centro 3: 2712.0 Ton en agua.
+     • Centro 4: 9405.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 561.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 40:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 11770.0 Ton en agua.
+     • Centro 2: 11266.0 Ton en agua.
+     • Centro 3: 2970.0 Ton en agua.
+     • Centro 4: 9842.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 562.0 Ton
+     • Planta 6 -> Guardado: 561.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 41:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 11759.0 Ton en agua.
+     • Centro 2: 11666.0 Ton en agua.
+     • Centro 3: 2924.0 Ton en agua.
+     • Centro 4: 10242.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 281.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 561.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 42:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 11839.0 Ton en agua.
+     • Centro 2: 11682.0 Ton en agua.
+     • Centro 3: 3171.0 Ton en agua.
+     • Centro 4: 10450.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 562.0 Ton
+     • Planta 6 -> Guardado: 561.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 43:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 12159.0 Ton en agua.
+     • Centro 2: 11943.0 Ton en agua.
+     • Centro 3: 3045.0 Ton en agua.
+     • Centro 4: 10450.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 188.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 654.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 44:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 12287.0 Ton en agua.
+     • Centro 2: 12359.0 Ton en agua.
+     • Centro 3: 2935.0 Ton en agua.
+     • Centro 4: 10727.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 469.0 Ton
+     • Planta 6 -> Guardado: 654.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 45:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 12308.0 Ton en agua.
+     • Centro 2: 12823.0 Ton en agua.
+     • Centro 3: 2921.0 Ton en agua.
+     • Centro 4: 10727.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 256.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 679.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 46:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 12452.0 Ton en agua.
+     • Centro 2: 13079.0 Ton en agua.
+     • Centro 3: 2965.0 Ton en agua.
+     • Centro 4: 10759.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 516.0 Ton
+     • Planta 6 -> Guardado: 679.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 47:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 12452.0 Ton en agua.
+     • Centro 2: 13388.0 Ton en agua.
+     • Centro 3: 3196.0 Ton en agua.
+     • Centro 4: 10839.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 213.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 726.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 48:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 12836.0 Ton en agua.
+     • Centro 2: 13452.0 Ton en agua.
+     • Centro 3: 3331.0 Ton en agua.
+     • Centro 4: 10924.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 426.0 Ton
+     • Planta 6 -> Guardado: 773.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 49:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 13065.0 Ton en agua.
+     • Centro 2: 13628.0 Ton en agua.
+     • Centro 3: 3242.0 Ton en agua.
+     • Centro 4: 11148.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 260.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 773.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 50:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 13545.0 Ton en agua.
+     • Centro 2: 14140.0 Ton en agua.
+     • Centro 3: 3510.0 Ton en agua.
+     • Centro 4: 11500.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 495.0 Ton
+     • Planta 6 -> Guardado: 798.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 51:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 13785.0 Ton en agua.
+     • Centro 2: 14305.0 Ton en agua.
+     • Centro 3: 3389.0 Ton en agua.
+     • Centro 4: 11596.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 205.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 853.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 52:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 13849.0 Ton en agua.
+     • Centro 2: 14433.0 Ton en agua.
+     • Centro 3: 3188.0 Ton en agua.
+     • Centro 4: 11665.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 438.0 Ton
+     • Planta 6 -> Guardado: 880.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 53:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 14206.0 Ton en agua.
+     • Centro 2: 14913.0 Ton en agua.
+     • Centro 3: 3211.0 Ton en agua.
+     • Centro 4: 12081.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 167.0 Ton
+     • Planta 6 -> Guardado: 973.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 54:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 14462.0 Ton en agua.
+     • Centro 2: 14977.0 Ton en agua.
+     • Centro 3: 3351.0 Ton en agua.
+     • Centro 4: 12401.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 129.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1104.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 55:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 14526.0 Ton en agua.
+     • Centro 2: 15414.0 Ton en agua.
+     • Centro 3: 3543.0 Ton en agua.
+     • Centro 4: 12593.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 345.0 Ton
+     • Planta 6 -> Guardado: 1123.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 56:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 14718.0 Ton en agua.
+     • Centro 2: 15478.0 Ton en agua.
+     • Centro 3: 3810.0 Ton en agua.
+     • Centro 4: 12854.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 85.0 Ton
+     • Planta 6 -> Guardado: 1246.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 57:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 15059.0 Ton en agua.
+     • Centro 2: 15846.0 Ton en agua.
+     • Centro 3: 3901.0 Ton en agua.
+     • Centro 4: 12902.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 0.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 178.0 Ton
+     • Planta 6 -> Guardado: 1276.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 58:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 15395.0 Ton en agua.
+     • Centro 2: 16358.0 Ton en agua.
+     • Centro 3: 4136.0 Ton en agua.
+     • Centro 4: 13131.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 115.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1369.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 59:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 15523.0 Ton en agua.
+     • Centro 2: 16555.0 Ton en agua.
+     • Centro 3: 4323.0 Ton en agua.
+     • Centro 4: 13643.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 192.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1500.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 60:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 15923.0 Ton en agua.
+     • Centro 2: 16731.0 Ton en agua.
+     • Centro 3: 4529.0 Ton en agua.
+     • Centro 4: 13675.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 320.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 61:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 16040.0 Ton en agua.
+     • Centro 2: 16875.0 Ton en agua.
+     • Centro 3: 4576.0 Ton en agua.
+     • Centro 4: 14171.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 460.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 62:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 16568.0 Ton en agua.
+     • Centro 2: 16955.0 Ton en agua.
+     • Centro 3: 4975.0 Ton en agua.
+     • Centro 4: 14592.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 600.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 63:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 16712.0 Ton en agua.
+     • Centro 2: 16944.0 Ton en agua.
+     • Centro 3: 5310.0 Ton en agua.
+     • Centro 4: 15056.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 740.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 64:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 16728.0 Ton en agua.
+     • Centro 2: 17120.0 Ton en agua.
+     • Centro 3: 5570.0 Ton en agua.
+     • Centro 4: 15072.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 880.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 65:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 17037.0 Ton en agua.
+     • Centro 2: 17248.0 Ton en agua.
+     • Centro 3: 5617.0 Ton en agua.
+     • Centro 4: 15264.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1020.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 66:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 17421.0 Ton en agua.
+     • Centro 2: 17504.0 Ton en agua.
+     • Centro 3: 6050.0 Ton en agua.
+     • Centro 4: 15317.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1110.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 67:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 17533.0 Ton en agua.
+     • Centro 2: 17637.0 Ton en agua.
+     • Centro 3: 6131.0 Ton en agua.
+     • Centro 4: 15557.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1200.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 68:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 17773.0 Ton en agua.
+     • Centro 2: 17829.0 Ton en agua.
+     • Centro 3: 6553.0 Ton en agua.
+     • Centro 4: 16085.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1267.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 23.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 69:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 18018.0 Ton en agua.
+     • Centro 2: 18293.0 Ton en agua.
+     • Centro 3: 6570.0 Ton en agua.
+     • Centro 4: 16549.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1357.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 70:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 18546.0 Ton en agua.
+     • Centro 2: 18773.0 Ton en agua.
+     • Centro 3: 6890.0 Ton en agua.
+     • Centro 4: 17002.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1400.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 71:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 18546.0 Ton en agua.
+     • Centro 2: 19178.0 Ton en agua.
+     • Centro 3: 6922.0 Ton en agua.
+     • Centro 4: 17098.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1224.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 219.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 72:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 18786.0 Ton en agua.
+     • Centro 2: 19594.0 Ton en agua.
+     • Centro 3: 7322.0 Ton en agua.
+     • Centro 4: 17322.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1224.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 73:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 19127.0 Ton en agua.
+     • Centro 2: 19866.0 Ton en agua.
+     • Centro 3: 7675.0 Ton en agua.
+     • Centro 4: 17706.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1314.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 74:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 19351.0 Ton en agua.
+     • Centro 2: 20090.0 Ton en agua.
+     • Centro 3: 7899.0 Ton en agua.
+     • Centro 4: 17903.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1357.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 75:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 19879.0 Ton en agua.
+     • Centro 2: 20255.0 Ton en agua.
+     • Centro 3: 8219.0 Ton en agua.
+     • Centro 4: 18223.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1400.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 76:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 20071.0 Ton en agua.
+     • Centro 2: 20767.0 Ton en agua.
+     • Centro 3: 8315.0 Ton en agua.
+     • Centro 4: 18463.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1400.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 77:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 20525.0 Ton en agua.
+     • Centro 2: 20863.0 Ton en agua.
+     • Centro 3: 8704.0 Ton en agua.
+     • Centro 4: 18527.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1400.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 53.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 78:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 20829.0 Ton en agua.
+     • Centro 2: 21055.0 Ton en agua.
+     • Centro 3: 9184.0 Ton en agua.
+     • Centro 4: 18596.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1400.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 43.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 79:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 21197.0 Ton en agua.
+     • Centro 2: 21524.0 Ton en agua.
+     • Centro 3: 9632.0 Ton en agua.
+     • Centro 4: 19092.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1400.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 43.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 80:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 21277.0 Ton en agua.
+     • Centro 2: 21636.0 Ton en agua.
+     • Centro 3: 10080.0 Ton en agua.
+     • Centro 4: 19476.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1400.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 81:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 21571.0 Ton en agua.
+     • Centro 2: 21972.0 Ton en agua.
+     • Centro 3: 10213.0 Ton en agua.
+     • Centro 4: 19556.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1400.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 53.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 82:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 21827.0 Ton en agua.
+     • Centro 2: 22420.0 Ton en agua.
+     • Centro 3: 10565.0 Ton en agua.
+     • Centro 4: 19898.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1400.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 10.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 83:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 21971.0 Ton en agua.
+     • Centro 2: 22410.0 Ton en agua.
+     • Centro 3: 10661.0 Ton en agua.
+     • Centro 4: 20138.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1400.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 10.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------
+  DÍA 84:
+   Centros (Inventario Flotante Remanente):
+     • Centro 1: 22275.0 Ton en agua.
+     • Centro 2: 22410.0 Ton en agua.
+     • Centro 3: 11125.0 Ton en agua.
+     • Centro 4: 20474.0 Ton en agua.
+   Plantas (Almacén, Vaciado e Incineración de Emergencia):
+     • Planta 5 -> Guardado: 1400.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+     • Planta 6 -> Guardado: 1550.0 Ton | Procesado: 0.0 Ton/día | Incinerado: 0.0 Ton
+  --------------------------------------------------------------------

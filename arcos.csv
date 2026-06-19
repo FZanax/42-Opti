@@ -1,0 +1,50 @@
+origen;destino;distancia_km;Nombre origen;Nombre Destino
+0;0;0;Base;Base
+0;1;259;Base;spq
+0;2;195;Base;muelle chonchi
+0;3;57.4;Base;calbuco
+0;4;106;Base;rampa hornopiren
+0;5;0;Base;ancud
+0;6;0;Base;panitao
+1;0;0;spq;Base
+1;1;0;spq;spq
+1;2;0;spq;muelle chonchi
+1;3;0;spq;calbuco
+1;4;0;spq;rampa hornopiren
+1;5;168;spq;ancud
+1;6;250;spq;panitao
+2;0;0;muelle chonchi;Base
+2;1;0;muelle chonchi;spq
+2;2;0;muelle chonchi;muelle chonchi
+2;3;0;muelle chonchi;calbuco
+2;4;0;muelle chonchi;rampa hornopiren
+2;5;103;muelle chonchi;ancud
+2;6;186;muelle chonchi;panitao
+3;0;0;calbuco;Base
+3;1;0;calbuco;spq
+3;2;0;calbuco;muelle chonchi
+3;3;0;calbuco;calbuco
+3;4;0;calbuco;rampa hornopiren
+3;5;77.3;calbuco;ancud
+3;6;40.9;calbuco;panitao
+4;0;0;rampa hornopiren;Base
+4;1;0;rampa hornopiren;spq
+4;2;0;rampa hornopiren;muelle chonchi
+4;3;0;rampa hornopiren;calbuco
+4;4;0;rampa hornopiren;rampa hornopiren
+4;5;198;rampa hornopiren;ancud
+4;6;122;rampa hornopiren;panitao
+5;0;91.8;ancud;Base
+5;1;0;ancud;spq
+5;2;0;ancud;muelle chonchi
+5;3;0;ancud;calbuco
+5;4;0;ancud;rampa hornopiren
+5;5;0;ancud;ancud
+5;6;0;ancud;panitao
+6;0;21.9;panitao;Base
+6;1;0;panitao;spq
+6;2;0;panitao;muelle chonchi
+6;3;0;panitao;calbuco
+6;4;0;panitao;rampa hornopiren
+6;5;0;panitao;ancud
+6;6;0;panitao;panitao

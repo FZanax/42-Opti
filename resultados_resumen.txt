@@ -1,0 +1,1745 @@
+=========================================================
+      RESUMEN LOGÍSTICO COMPACTO: MITIGACIÓN MAREA ROJA  
+=========================================================
+Costo Total de la Operación Óptima: 17,609,353,771,199.36 CLP
+Tiempo de Ejecución: 1.68 segundos
+MIP Gap Final: 0.00%
+=========================================================
+
+DÍA 1:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 1: Viaja de Base 0 -> Centro 1
+  - Camión 1: Viaja de Centro 1 -> Planta 5 | Carga 10.0 Ton de biomasa | Descarga 10.0 Ton en planta
+  - Camión 1: Viaja de Planta 5 -> Planta 6
+  - Camión 1: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 281.9 Ton.
+--------------------------------------------------
+DÍA 2:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 3:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 562.0 Ton.
+--------------------------------------------------
+DÍA 4:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 5:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 1: Viaja de Base 0 -> Centro 1
+  - Camión 1: Viaja de Centro 1 -> Planta 5 | Carga 10.0 Ton de biomasa | Descarga 10.0 Ton en planta
+  - Camión 1: Viaja de Planta 5 -> Planta 6
+  - Camión 1: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 572.0 Ton.
+--------------------------------------------------
+DÍA 6:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 7:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 562.0 Ton.
+--------------------------------------------------
+DÍA 8:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 9:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 1: Viaja de Base 0 -> Centro 1
+  - Camión 1: Viaja de Centro 1 -> Planta 5 | Carga 10.0 Ton de biomasa | Descarga 10.0 Ton en planta
+  - Camión 1: Viaja de Planta 5 -> Planta 6
+  - Camión 1: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 572.0 Ton.
+--------------------------------------------------
+DÍA 10:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 11:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 562.0 Ton.
+--------------------------------------------------
+DÍA 12:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 13:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 1: Viaja de Base 0 -> Centro 1
+  - Camión 1: Viaja de Centro 1 -> Planta 5 | Carga 10.0 Ton de biomasa | Descarga 10.0 Ton en planta
+  - Camión 1: Viaja de Planta 5 -> Planta 6
+  - Camión 1: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 572.0 Ton.
+--------------------------------------------------
+DÍA 14:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 281.0 Ton.
+--------------------------------------------------
+DÍA 15:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 16:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 562.0 Ton.
+--------------------------------------------------
+DÍA 17:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 1: Viaja de Base 0 -> Centro 1
+  - Camión 1: Viaja de Centro 1 -> Planta 5 | Carga 10.0 Ton de biomasa
+  - Camión 1: Viaja de Planta 5 -> Planta 6 | Descarga 10.0 Ton en planta
+  - Camión 1: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 18:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa | Descarga 21.0 Ton en planta
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 541.0 Ton.
+--------------------------------------------------
+DÍA 19:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 20:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa | Descarga 30.0 Ton en planta
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa | Descarga 50.0 Ton en planta
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa | Descarga 38.0 Ton en planta
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 444.0 Ton.
+--------------------------------------------------
+DÍA 21:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 1: Viaja de Base 0 -> Centro 1
+  - Camión 1: Viaja de Centro 1 -> Planta 5 | Carga 10.0 Ton de biomasa
+  - Camión 1: Viaja de Planta 5 -> Planta 6 | Descarga 10.0 Ton en planta
+  - Camión 1: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa | Descarga 25.0 Ton en planta
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 22:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 537.0 Ton.
+--------------------------------------------------
+DÍA 23:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa | Descarga 50.0 Ton en planta
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa | Descarga 47.0 Ton en planta
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 24:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 422.0 Ton.
+--------------------------------------------------
+DÍA 25:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 1: Viaja de Base 0 -> Centro 1
+  - Camión 1: Viaja de Centro 1 -> Planta 5 | Carga 10.0 Ton de biomasa | Descarga 10.0 Ton en planta
+  - Camión 1: Viaja de Planta 5 -> Planta 6
+  - Camión 1: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 26:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa | Descarga 21.0 Ton en planta
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 551.0 Ton.
+--------------------------------------------------
+DÍA 27:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa | Descarga 30.0 Ton en planta
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 28:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa | Descarga 38.0 Ton en planta
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 494.0 Ton.
+--------------------------------------------------
+DÍA 29:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 1: Viaja de Base 0 -> Centro 1
+  - Camión 1: Viaja de Centro 1 -> Planta 5 | Carga 10.0 Ton de biomasa | Descarga 10.0 Ton en planta
+  - Camión 1: Viaja de Planta 5 -> Planta 6
+  - Camión 1: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 291.0 Ton.
+--------------------------------------------------
+DÍA 30:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa | Descarga 30.0 Ton en planta
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa | Descarga 38.0 Ton en planta
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 31:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 494.0 Ton.
+--------------------------------------------------
+DÍA 32:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 33:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 1
+  - Camión 4: Viaja de Centro 1 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 562.0 Ton.
+--------------------------------------------------
+DÍA 34:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 281.0 Ton.
+--------------------------------------------------
+DÍA 35:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa | Descarga 30.0 Ton en planta
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa | Descarga 50.0 Ton en planta
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 201.0 Ton.
+--------------------------------------------------
+DÍA 36:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 281.0 Ton.
+--------------------------------------------------
+DÍA 37:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 1
+  - Camión 4: Viaja de Centro 1 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 38:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 562.0 Ton.
+--------------------------------------------------
+DÍA 39:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 40:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 562.0 Ton.
+--------------------------------------------------
+DÍA 41:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 1
+  - Camión 4: Viaja de Centro 1 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 42:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 562.0 Ton.
+--------------------------------------------------
+DÍA 43:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa | Descarga 30.0 Ton en planta
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa | Descarga 25.0 Ton en planta
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa | Descarga 38.0 Ton en planta
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 44:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 469.0 Ton.
+--------------------------------------------------
+DÍA 45:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa | Descarga 25.0 Ton en planta
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 1
+  - Camión 4: Viaja de Centro 1 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 6: Viaja de Base 0 -> Centro 3
+  - Camión 6: Viaja de Centro 3 -> Planta 6 | Carga 21.0 Ton de biomasa
+  - Camión 6: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 46:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 516.0 Ton.
+--------------------------------------------------
+DÍA 47:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa | Descarga 47.0 Ton en planta
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 48:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa | Descarga 47.0 Ton en planta
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 426.0 Ton.
+--------------------------------------------------
+DÍA 49:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 1
+  - Camión 4: Viaja de Centro 1 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 50:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa | Descarga 25.0 Ton en planta
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 495.0 Ton.
+--------------------------------------------------
+DÍA 51:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa | Descarga 30.0 Ton en planta
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa | Descarga 25.0 Ton en planta
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 52:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa | Descarga 27.0 Ton en planta
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 438.0 Ton.
+--------------------------------------------------
+DÍA 53:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa | Descarga 30.0 Ton en planta
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa | Descarga 25.0 Ton en planta
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 1
+  - Camión 4: Viaja de Centro 1 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa | Descarga 38.0 Ton en planta
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 167.0 Ton.
+--------------------------------------------------
+DÍA 54:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa | Descarga 50.0 Ton en planta
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 3: Viaja de Base 0 -> Centro 3
+  - Camión 3: Viaja de Centro 3 -> Planta 6 | Carga 25.0 Ton de biomasa
+  - Camión 3: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa | Descarga 38.0 Ton en planta
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa
+  - Camión 9: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 55:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  - Camión 9: Viaja de Base 0 -> Centro 3
+  - Camión 9: Viaja de Centro 3 -> Planta 6 | Carga 27.0 Ton de biomasa | Descarga 19.0 Ton en planta
+  - Camión 9: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 345.0 Ton.
+--------------------------------------------------
+DÍA 56:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa | Descarga 30.0 Ton en planta
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa | Descarga 50.0 Ton en planta
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 85.0 Ton.
+--------------------------------------------------
+DÍA 57:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa | Descarga 30.0 Ton en planta
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 1
+  - Camión 4: Viaja de Centro 1 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 178.0 Ton.
+--------------------------------------------------
+DÍA 58:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa | Descarga 50.0 Ton en planta
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 59:
+  - Camión 0: Viaja de Base 0 -> Centro 3
+  - Camión 0: Viaja de Centro 3 -> Planta 6 | Carga 30.0 Ton de biomasa
+  - Camión 0: Viaja de Planta 6 -> Base 0
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa | Descarga 50.0 Ton en planta
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 5 -> Planta 6 | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa | Descarga 38.0 Ton en planta
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 60:
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa | Descarga 50.0 Ton en planta
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 5: Viaja de Base 0 -> Centro 3
+  - Camión 5: Viaja de Centro 3 -> Planta 6 | Carga 38.0 Ton de biomasa
+  - Camión 5: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 61:
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 1
+  - Camión 4: Viaja de Centro 1 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 62:
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 63:
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 64:
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 65:
+  - Camión 2: Viaja de Base 0 -> Centro 3
+  - Camión 2: Viaja de Centro 3 -> Planta 6 | Carga 50.0 Ton de biomasa
+  - Camión 2: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 1
+  - Camión 4: Viaja de Centro 1 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 66:
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 67:
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 68:
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 23.0 Ton.
+--------------------------------------------------
+DÍA 69:
+  - Camión 4: Viaja de Base 0 -> Centro 1
+  - Camión 4: Viaja de Centro 1 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 70:
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 71:
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 219.0 Ton.
+--------------------------------------------------
+DÍA 73:
+  - Camión 4: Viaja de Base 0 -> Centro 1
+  - Camión 4: Viaja de Centro 1 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  - Camión 8: Viaja de Base 0 -> Centro 3
+  - Camión 8: Viaja de Centro 3 -> Planta 6 | Carga 47.0 Ton de biomasa
+  - Camión 8: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 74:
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 75:
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+--------------------------------------------------
+DÍA 77:
+  - Camión 1: Viaja de Base 0 -> Centro 1
+  - Camión 1: Viaja de Centro 1 -> Planta 5 | Carga 10.0 Ton de biomasa | Descarga 10.0 Ton en planta
+  - Camión 1: Viaja de Planta 5 -> Planta 6
+  - Camión 1: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 53.0 Ton.
+--------------------------------------------------
+DÍA 78:
+  - Camión 4: Viaja de Base 0 -> Centro 4
+  - Camión 4: Viaja de Centro 4 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 43.0 Ton.
+--------------------------------------------------
+DÍA 79:
+  - Camión 4: Viaja de Base 0 -> Centro 2
+  - Camión 4: Viaja de Centro 2 -> Planta 5 | Carga 43.0 Ton de biomasa | Descarga 43.0 Ton en planta
+  - Camión 4: Viaja de Planta 5 -> Planta 6
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 43.0 Ton.
+--------------------------------------------------
+DÍA 81:
+  - Camión 1: Viaja de Base 0 -> Centro 1
+  - Camión 1: Viaja de Centro 1 -> Planta 5 | Carga 10.0 Ton de biomasa | Descarga 10.0 Ton en planta
+  - Camión 1: Viaja de Planta 5 -> Planta 6
+  - Camión 1: Viaja de Planta 6 -> Base 0
+  - Camión 4: Viaja de Base 0 -> Centro 3
+  - Camión 4: Viaja de Centro 3 -> Planta 6 | Carga 43.0 Ton de biomasa
+  - Camión 4: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 53.0 Ton.
+--------------------------------------------------
+DÍA 82:
+  - Camión 1: Viaja de Base 0 -> Centro 4
+  - Camión 1: Viaja de Centro 4 -> Planta 6 | Carga 10.0 Ton de biomasa
+  - Camión 1: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 10.0 Ton.
+--------------------------------------------------
+DÍA 83:
+  - Camión 1: Viaja de Base 0 -> Centro 2
+  - Camión 1: Viaja de Centro 2 -> Planta 5 | Carga 10.0 Ton de biomasa | Descarga 10.0 Ton en planta
+  - Camión 1: Viaja de Planta 5 -> Planta 6
+  - Camión 1: Viaja de Planta 6 -> Base 0
+  [ALERTA MULTA] Planta 5: ¡Exceso detectado! Se incineraron 10.0 Ton.
+--------------------------------------------------
