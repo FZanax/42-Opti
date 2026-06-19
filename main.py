@@ -151,12 +151,6 @@ for i in C:
             name=f"Dispara_Alerta_{i}_{t}"
         )
         
-        # Regla B
-        model.addConstr(
-            I[i, t] <= M_local * Activo[i, t],
-            name=f"Apaga_Alerta_En_Cero_{i}_{t}"
-        )
-        
         # --- REGLA C: Solo se permite limpiar (Y) si el centro está "Activo" ---
         model.addConstr(
             Y[i, t] <= Activo[i, t],

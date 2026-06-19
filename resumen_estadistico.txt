@@ -4,12 +4,12 @@
 
 💰 [BALANCE FINANCIERO TOTAL]
  ► Presupuesto Base Asignado : 1,000,000,000 CLP
- ► Gasto Operativo           : 463,913,080 CLP
+ ► Gasto Operativo           : 463,946,202 CLP
  ► Multas por Inventario (Pt): 0 CLP
  ► Multas Incineración (E)   : 0 CLP
- ► GASTO TOTAL EVALUADO      : 463,913,080 CLP
+ ► GASTO TOTAL EVALUADO      : 463,946,202 CLP
 
- ✅ Presupuesto Suficiente (Sobró: 536,086,920 CLP)
+ ✅ Presupuesto Suficiente (Sobró: 536,053,798 CLP)
 
 🚚 [MÉTRICAS OPERATIVAS]
  ► Total de viajes a centros : 1216 viajes
